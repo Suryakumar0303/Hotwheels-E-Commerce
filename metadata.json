@@ -1,0 +1,6 @@
+{
+  "name": "ApexDiecast - Imported Hot Wheels & Premium Collectibles",
+  "description": "Premium e-commerce store for imported Hot Wheels, RLC limited editions, Super Treasure Hunts, and collector diecast cars with secure checkout, live order tracking, and customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
